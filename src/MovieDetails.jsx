@@ -35,7 +35,7 @@ function MovieDetails() {
      <div className="details">
     <div>
       <button className="back-btn" onClick={() => navigate(-1)}>
-        ⬅ Back
+        ⬅ Back 
       </button>
 
       <img
